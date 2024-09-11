@@ -5,7 +5,7 @@ handler.command = /^(mexico|México)$/i;
 export default handler;
 
 global.mexico = `
-🐧 𝗣𝗶𝗻𝗴𝘂𝗶 𝗠𝗲𝘅𝗶𝗰𝗼 🐧
+🐶 𝐏𝐢𝐭𝐛𝐮𝐥𝐥 𝐁𝐨𝐭 🐶
 
 𝗕𝗮𝗻𝗰𝗼 𝗔𝘇𝘁𝗲𝗰𝗮 : 𝟱𝟭𝟲𝟱𝟳𝟲𝟰𝟭𝟭𝟴𝟱𝟬𝟲𝟮𝟬
 𝗕𝗮𝗻𝗰𝗼 𝗦𝘁𝗽 : 𝟲𝟰𝟳𝟬𝟬𝟭𝟰𝟲𝟰𝟬𝟭𝟳𝟴𝟲𝟳𝟯𝟮
